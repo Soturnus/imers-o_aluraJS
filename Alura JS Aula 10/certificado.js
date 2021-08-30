@@ -1,0 +1,1 @@
+// javascript do certificado //

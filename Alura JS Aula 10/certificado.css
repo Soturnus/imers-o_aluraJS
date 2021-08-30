@@ -1,0 +1,55 @@
+/* css do certificado */
+html {
+    font-family: Montserrat;
+}
+body {
+    background-color: #8bc34a
+}
+
+section {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    margin-top: 100px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 10px 3px rgba(0,0,0,0.57); 
+    box-shadow: 0px 0px 10px 3px rgba(0,0,0,0.57);
+}
+
+section h1 {
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2b4fbd23105939.5631d74c52459.jpg');
+    background-size: cover;
+    height: 80px;
+}
+.insignias {
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: gray;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    display: block;
+    border: 8px solid white;
+    transform: translateY(-50%);
+}
+
+li {
+    list-style: none;
+}
